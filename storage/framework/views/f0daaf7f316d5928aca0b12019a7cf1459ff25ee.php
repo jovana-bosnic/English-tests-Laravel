@@ -1,0 +1,9 @@
+<script src="<?php echo e(asset('assets/js/jquery.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets/js/popper.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets/js/bootstrap.bundle.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets/js/jquery-3.0.0.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets/js/owl.carousel.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets/js/simple-lightbox.jquery.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets/js/jquery.mCustomScrollbar.concat.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets/js/custom.js')); ?>"></script>
+<?php /**PATH C:\Users\Jovana\OneDrive\Desktop\english-tests\resources\views/fixed/scripts.blade.php ENDPATH**/ ?>
